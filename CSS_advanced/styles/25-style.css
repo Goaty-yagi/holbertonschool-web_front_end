@@ -52,10 +52,6 @@ html {
 }
 body {
     margin:0;
-    --button-color: var(--color-black);
-    --button-font-size: var(--font-size-large);
-    --button-hover-color: var(color-white);
-    --button-hover-background: var(color-primary);
 }
 main {
     display:block
