@@ -250,6 +250,7 @@ ul.row {
 .social-link {
     display: block;
 }
-.social-link .svg {
+/* > immedate child while .social-link svg apply for all nested svg*/
+.social-link > svg {
     fill: var(--text-color);
 }
