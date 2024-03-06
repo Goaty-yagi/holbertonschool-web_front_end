@@ -20,6 +20,14 @@
 p {
   color: blue; /* Selector: p, Property: color, Value: blue */
 }
+
+/* CSS attribute selector */
+[data-section-theme="dark"] {
+    --text-color: white;
+    --section-title-color: white;
+    background: var(--color-black);
+}
+<body data-section-theme="dark"></body>
 ```
 
 ## The difference between block and inline styling
