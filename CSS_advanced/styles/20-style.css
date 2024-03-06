@@ -214,7 +214,7 @@ ul.row {
     padding: 0;
     list-style: none;
 }
-.row {
+.row::after {
     display: table;
     clear: both;
     content: "";
