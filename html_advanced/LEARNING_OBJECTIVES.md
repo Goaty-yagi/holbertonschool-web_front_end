@@ -285,6 +285,11 @@ A description list is used to group terms with their corresponding descriptions.
   <source src="example.mp4" type="video/mp4" />
   Your browser does not support the video tag.
 </video>
+
+<!-- or -->
+<video src="example.mp4" width="640" height="360" controls poster="poster.jpg">
+  Your browser does not support the video tag.
+</video>
 ```
 
 - The <video> element is used to embed the video.
