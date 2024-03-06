@@ -9,8 +9,6 @@ This repository contains advanced HTML examples, techniques, and resources for b
 
 - [Learning Objectives](#learning-objectives)
 - [Requirements](#requirements)
-- [Practice Exercises](#practice-exercises)
-- [Tests](#tests)
 
 ## Learning Objectives
 
@@ -21,7 +19,4 @@ This project is based on the learning objectives - see the [LEARNING_OBJECTIVES]
 - A README.md file at the root of the folder of the project is mandatory
 - Your code should be W3C compliant and validate with W3C-Validator
 - Techium will be the name of the company we will use across our webpages.
-
-## Practice Exercises
-
 
