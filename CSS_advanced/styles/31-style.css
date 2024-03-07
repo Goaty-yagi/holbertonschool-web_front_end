@@ -320,7 +320,7 @@ ul.row {
     height: 10rem;
 }
 .card-testimonial .card-quote {
-    position: inherit;
+    position: relative;
 }
 .card-testimonial .card-quote::before {
     content: "\201C";
