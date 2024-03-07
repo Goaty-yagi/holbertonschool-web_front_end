@@ -250,7 +250,7 @@ a:active {
     width: 0;
     height: 0.2rem;
 }
-.nav .nav-link::before:hover {
+.nav .nav-link:hover::before {
     background-color: var(--color-primary);
     width: 100%;
 }
